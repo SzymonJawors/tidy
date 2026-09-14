@@ -10,8 +10,6 @@ Tidy is a small Windows program that watches a folder you choose and moves new f
 
 Run **`Tidy.exe`** or double-click **`launch.vbs`**. No terminal needed for daily use.
 
-To push this project to GitHub, see [docs/GITHUB.md](docs/GITHUB.md).
-
 ---
 
 ## Screenshots
@@ -146,7 +144,6 @@ porzadek/
 ├── launch.vbs
 ├── requirements.txt
 ├── docs/
-│   ├── GITHUB.md
 │   └── screenshots/
 └── LICENSE
 ```
@@ -182,7 +179,7 @@ porzadek/
 
 Tidy to lekka aplikacja na Windows. Obserwuje wybrany folder i przenosi nowe pliki do podfolderów według typu. **Źródło** i **cel** ustawiasz w oknie. Domyślnie program podpowiada Pobrane i Pulpit, ale możesz wskazać np. folder projektu albo dysk sieciowy.
 
-[↑ English](#tidy) · [GitHub: pierwszy push](docs/GITHUB.md)
+[↑ English](#tidy)
 
 ---
 
