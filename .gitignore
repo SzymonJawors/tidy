@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+sort.log
+Tidy.exe
+Porzadek.exe
+.venv/
+venv/
